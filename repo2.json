@@ -1,8 +1,0 @@
-{
-    "name": "Multilingual providers repository",
-    "description": "Cloudstream Non-english Plugin Repository",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/antonydp/repo/main/plugin2.json"
-    ]
-}
