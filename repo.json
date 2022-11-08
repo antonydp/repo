@@ -3,6 +3,6 @@
     "description": "Cloudstream Non-english Plugin Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/antonydp/secretrepo/blob/builds/plugins.json"
+      "https://github.com/antonydp/repo/blob/plugins.json"
     ]
 }

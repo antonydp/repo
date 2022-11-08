@@ -1,7 +1,7 @@
 [
     {
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/antonydp/secretrepo",
+        "repositoryUrl": "https://github.com/antonydp/repo",
         "fileSize": 38912,
         "status": 1,
         "authors": [
@@ -13,7 +13,7 @@
         "version": 1,
         "internalName": "ExampleProvider",
         "description": "Altadefinizione Community provider segreto",
-        "url": "https://raw.githubusercontent.com/antonydp/secretrepo/builds/ExampleProvider.cs3",
+        "url": "https://raw.githubusercontent.com/antonydp/repo/ExampleProvider.cs3",
         "name": "ExampleProvider"
     }
 ]
