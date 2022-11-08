@@ -1,6 +1,6 @@
 [
     {
-        "apiVersion": 1,
+        "apiVersion": 2,
         "repositoryUrl": "https://github.com/antonydp/repo",
         "fileSize": 38912,
         "status": 1,
