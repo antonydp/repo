@@ -13,7 +13,7 @@
         "version": 1,
         "internalName": "ExampleProvider",
         "description": "Altadefinizione Community provider segreto",
-        "url": "https://raw.githubusercontent.com/antonydp/repo/ExampleProvider.cs3",
+        "url": "https://raw.githubusercontent.com/antonydp/repo/blob/main/ExampleProvider.cs3",
         "name": "ExampleProvider"
     }
 ]
