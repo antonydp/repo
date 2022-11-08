@@ -1,0 +1,19 @@
+[
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/antonydp/secretrepo",
+        "fileSize": 38912,
+        "status": 1,
+        "authors": [
+            "Adippe"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "ExampleProvider",
+        "description": "Altadefinizione Community provider segreto",
+        "url": "https://raw.githubusercontent.com/antonydp/secretrepo/builds/ExampleProvider.cs3",
+        "name": "ExampleProvider"
+    }
+]
